@@ -3,9 +3,9 @@
     <p>
       <strong>ChatGPT-web</strong>
       by
-      <a href="https://niekvandermaas.nl/">Niek van der Maas</a>
+      <a href="https://github.com/tsakai-g/">tsakai</a>
       &mdash; see
-      <a href="https://github.com/Niek/chatgpt-web">GitHub</a>
+      <a href="https://github.com/tsakai-g/chatgpt-web">GitHub</a>
       for source code.
     </p>
   </div>
