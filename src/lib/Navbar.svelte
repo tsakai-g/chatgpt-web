@@ -1,5 +1,5 @@
 <script lang="ts">
-  import logo from "../assets/logo.svg";
+  import logo from "../assets/IconRaphaelD256.png";
 </script>
 
 <nav class="navbar" aria-label="main navigation">
